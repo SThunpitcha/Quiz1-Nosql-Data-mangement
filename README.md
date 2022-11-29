@@ -7,7 +7,6 @@ Source : https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks \
 Dataset Name : Goodreads-books \
 Dataset : 12 columns 
 # GUI
-* **Application **
 ![image](https://user-images.githubusercontent.com/115791301/204553924-6d3a3e24-809a-4cfe-85d3-b457aa58c64e.png)
 
 * **CRUD function**
